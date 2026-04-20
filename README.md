@@ -3,6 +3,7 @@
 Data Analyst with experience in Power BI, SQL, and data modeling.
 
 Focused on building business-driven dashboards that solve real operational and financial problems.
+Currently focused on transitioning into healthcare analytics roles.
 
 ## Portfolio Projects
 - [Healthcare ER Wait Time & Patient Flow Analysis](https://github.com/VladSobur/healthcare-er-wait-time-analysis)
